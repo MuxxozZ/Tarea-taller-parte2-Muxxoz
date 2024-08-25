@@ -2,6 +2,7 @@
 
 int main(){
 	int a,b,suma,resta;
+	printf("Ingrese 2 numeros naturales");
 	scanf("%d %d", &a,&b);
 	suma=a+b;
 	resta=a-b;
